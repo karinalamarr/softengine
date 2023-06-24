@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Week 8</title>
+</head>
+<body>
+	<form>
+		<input id="username">
+		<input id="password">
+		<button type="button" onclick="getInfo()">Click Me</button>
+	</form>
+
+</body>
+</html>
